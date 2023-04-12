@@ -8,6 +8,9 @@ The adoption of digital payment methods has undoubtedly improved the convenience
 
 To employ machine learning in the detection of online payment fraud, it is imperative to train a machine learning model to classify payments as fraudulent or non-fraudulent. This necessitates obtaining a dataset that encompasses information on online payment fraud to gain insight into the nature of transactions that are susceptible to fraudulent activities. In this regard, a suitable dataset was collected from Kaggle, which contains comprehensive historical data on fraudulent transactions. This dataset can be leveraged to identify and flag fraudulent online payments. The dataset comprises various columns that contain relevant information on fraudulent transactions.
 
+### Dataset
+Cedit Card Dataset: https://www.kaggle.com/datasets/ealaxi/paysim1?resource=download
+
 1️⃣ Step: A unit of time that represents one hour. This refers to the time at which an online transaction occurred.
 
 2️⃣ Type: Refers to the type of online transaction that took place. This could be a purchase, transfer, or any other type of financial activity.
