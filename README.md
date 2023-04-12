@@ -1,4 +1,4 @@
-# Online-Payments-Fraud-Detection-using-Decision-Tree
+# Online-Payments-Fraud-Detection-using-Decision-Tree-Classifier
 
 ## Introduction
 
